@@ -7,7 +7,7 @@ title: Mon super site
         <a href="intro">Introduction</a>
     </li>
     <li>
-        <a href="conclu.md">Conclusion</a>
+        <a href="conclu">Conclusion</a>
     </li>
 </ul>
 
